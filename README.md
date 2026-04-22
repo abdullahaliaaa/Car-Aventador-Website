@@ -200,7 +200,7 @@ Bottom bar with legal links
 1. Clone the Repository
 bash
 
-git clone https://github.com/your-username/car-website.git
+git clone https://abdullahaliaa/car-website.git
 cd car-website
 2. Open in Browser
 bash
@@ -256,7 +256,7 @@ Copy this template inside .models--container:
 html
 
 <article class="models--card reveal-up" data-delay="600">
-    <img src="images/model-car-4.png" alt="Red Aventador" class="models--image">
+    <img src="images/home-car-4.png" alt="Red Aventador" class="models--image">
     <div class="models--gradient"></div>
     <div class="models--card-shine"></div>
     <div class="models--data">
